@@ -8,22 +8,18 @@
 	url = https://github.com/shixiangwang/ezcox
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "metawho"]
 	path = metawho
 	url = https://github.com/shixiangwang/metawho
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "sigminer"]
 	path = sigminer
 	url = https://github.com/shixiangwang/sigminer
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "tinyscholar"]
 	path = tinyscholar
 	url = https://github.com/shixiangwang/tinyscholar
 	shallow = true
 	registered = true
-	oncran = true

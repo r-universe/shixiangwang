@@ -1,0 +1,18 @@
+[
+  {
+    "package": "ezcox",
+    "oncran": true
+  },
+  {
+    "package": "metawho",
+    "oncran": true
+  },
+  {
+    "package": "sigminer",
+    "oncran": true
+  },
+  {
+    "package": "tinyscholar",
+    "oncran": true
+  }
+]

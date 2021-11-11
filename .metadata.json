@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "ggpolar",
+    "oncran": true
+  },
+  {
     "package": "metawho",
     "oncran": true
   },

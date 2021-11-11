@@ -8,6 +8,11 @@
 	url = https://github.com/shixiangwang/ezcox
 	shallow = true
 	registered = true
+[submodule "ggpolar"]
+	path = ggpolar
+	url = https://github.com/shixiangwang/polar
+	shallow = true
+	registered = true
 [submodule "metawho"]
 	path = metawho
 	url = https://github.com/shixiangwang/metawho

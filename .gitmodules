@@ -13,6 +13,11 @@
 	url = https://github.com/shixiangwang/polar
 	shallow = true
 	registered = true
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/shixiangwang/idconverter
+	shallow = true
+	registered = true
 [submodule "metawho"]
 	path = metawho
 	url = https://github.com/shixiangwang/metawho

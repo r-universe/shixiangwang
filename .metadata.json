@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "IDConverter",
+    "oncran": true
+  },
+  {
     "package": "metawho",
     "oncran": true
   },

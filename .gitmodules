@@ -23,6 +23,11 @@
 	url = https://github.com/shixiangwang/metawho
 	shallow = true
 	registered = true
+[submodule "regport"]
+	path = regport
+	url = https://github.com/shixiangwang/regport
+	shallow = true
+	registered = true
 [submodule "sigminer"]
 	path = sigminer
 	url = https://github.com/shixiangwang/sigminer

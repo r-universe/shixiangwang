@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "regport",
+    "oncran": true
+  },
+  {
     "package": "sigminer",
     "oncran": true
   },

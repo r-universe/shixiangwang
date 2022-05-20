@@ -58,9 +58,9 @@
 	url = https://github.com/ShixiangWang/ezcox
 	shallow = true
 	registered = true
-[submodule "tidyscholar"]
-	path = tidyscholar
-	url = https://github.com/ShixiangWang/tidyscholar
+[submodule "tinyscholar"]
+	path = tinyscholar
+	url = https://github.com/ShixiangWang/tinyscholar
 	shallow = true
 	registered = true
 [submodule "DoAbsolute"]

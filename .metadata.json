@@ -41,7 +41,8 @@
     "oncran": true
   },
   {
-    "package": "tidyscholar"
+    "package": "tinyscholar",
+    "oncran": true
   },
   {
     "package": "DoAbsolute"

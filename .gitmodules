@@ -1,40 +1,85 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/shixiangwang/universe
 	shallow = true
 	branch = HEAD
-[submodule "ezcox"]
-	path = ezcox
-	url = https://github.com/shixiangwang/ezcox
+[submodule "UCSCXenaTools"]
+	path = UCSCXenaTools
+	url = https://github.com/ShixiangWang/UCSCXenaTools
 	shallow = true
 	registered = true
-[submodule "ggpolar"]
-	path = ggpolar
-	url = https://github.com/shixiangwang/polar
+[submodule "UCSCXenaShiny"]
+	path = UCSCXenaShiny
+	url = https://github.com/openbiox/UCSCXenaShiny
 	shallow = true
 	registered = true
-[submodule "IDConverter"]
-	path = IDConverter
-	url = https://github.com/shixiangwang/idconverter
-	shallow = true
-	registered = true
-[submodule "metawho"]
-	path = metawho
-	url = https://github.com/shixiangwang/metawho
-	shallow = true
-	registered = true
-[submodule "regport"]
-	path = regport
-	url = https://github.com/shixiangwang/regport
+[submodule "contribution"]
+	path = contribution
+	url = https://github.com/openbiox/contribution
 	shallow = true
 	registered = true
 [submodule "sigminer"]
 	path = sigminer
-	url = https://github.com/shixiangwang/sigminer
+	url = https://github.com/ShixiangWang/sigminer
 	shallow = true
 	registered = true
-[submodule "tinyscholar"]
-	path = tinyscholar
-	url = https://github.com/shixiangwang/tinyscholar
+[submodule "sigminer.prediction"]
+	path = sigminer.prediction
+	url = https://github.com/ShixiangWang/sigminer.prediction
+	shallow = true
+	registered = true
+[submodule "rsra"]
+	path = rsra
+	url = https://github.com/ShixiangWang/rsra
+	shallow = true
+	registered = true
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/ShixiangWang/IDConverter
+	shallow = true
+	registered = true
+[submodule "regport"]
+	path = regport
+	url = https://github.com/ShixiangWang/regport
+	shallow = true
+	registered = true
+[submodule "neopeptides"]
+	path = neopeptides
+	url = https://github.com/ShixiangWang/neopeptides
+	shallow = true
+	registered = true
+[submodule "ggpolar"]
+	path = ggpolar
+	url = https://github.com/ShixiangWang/polar
+	shallow = true
+	registered = true
+[submodule "ezcox"]
+	path = ezcox
+	url = https://github.com/ShixiangWang/ezcox
+	shallow = true
+	registered = true
+[submodule "tidyscholar"]
+	path = tidyscholar
+	url = https://github.com/ShixiangWang/tidyscholar
+	shallow = true
+	registered = true
+[submodule "DoAbsolute"]
+	path = DoAbsolute
+	url = https://github.com/ShixiangWang/DoAbsolute
+	shallow = true
+	registered = true
+[submodule "copynumber"]
+	path = copynumber
+	url = https://github.com/ShixiangWang/copynumber
+	shallow = true
+	registered = true
+[submodule "CNVMotif"]
+	path = CNVMotif
+	url = https://github.com/ShixiangWang/CNVMotif
+	shallow = true
+	registered = true
+[submodule "metawho"]
+	path = metawho
+	url = https://github.com/ShixiangWang/metawho
 	shallow = true
 	registered = true

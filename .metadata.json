@@ -1,22 +1,14 @@
 [
   {
-    "package": "ezcox",
+    "package": "UCSCXenaTools",
+    "oncran": false
+  },
+  {
+    "package": "UCSCXenaShiny",
     "oncran": true
   },
   {
-    "package": "ggpolar",
-    "oncran": true
-  },
-  {
-    "package": "IDConverter",
-    "oncran": true
-  },
-  {
-    "package": "metawho",
-    "oncran": true
-  },
-  {
-    "package": "regport",
+    "package": "contribution",
     "oncran": true
   },
   {
@@ -24,7 +16,44 @@
     "oncran": true
   },
   {
-    "package": "tinyscholar",
+    "package": "sigminer.prediction"
+  },
+  {
+    "package": "rsra"
+  },
+  {
+    "package": "IDConverter",
+    "oncran": true
+  },
+  {
+    "package": "regport",
+    "oncran": true
+  },
+  {
+    "package": "neopeptides"
+  },
+  {
+    "package": "ggpolar",
+    "oncran": true
+  },
+  {
+    "package": "ezcox",
+    "oncran": true
+  },
+  {
+    "package": "tidyscholar"
+  },
+  {
+    "package": "DoAbsolute"
+  },
+  {
+    "package": "copynumber"
+  },
+  {
+    "package": "CNVMotif"
+  },
+  {
+    "package": "metawho",
     "oncran": true
   }
 ]

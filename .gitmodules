@@ -2,6 +2,28 @@
 	path = .registry
 	url = https://github.com/shixiangwang/shixiangwang.r-universe.dev
 	branch = HEAD
+[submodule "ASCAT"]
+	path = ASCAT
+	url = https://github.com/ShixiangWang/ascat
+	branch = v3-for-gcap-v1
+	subdir = ASCAT
+	registered = false
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/ShixiangWang/IDConverter
+	registered = false
+[submodule "copynumber"]
+	path = copynumber
+	url = https://github.com/ShixiangWang/copynumber
+	registered = false
+[submodule "facets"]
+	path = facets
+	url = https://github.com/ShixiangWang/facets
+	registered = false
 [submodule "gcap"]
 	path = gcap
 	url = https://github.com/ShixiangWang/gcap
+[submodule "pctGCdata"]
+	path = pctGCdata
+	url = https://github.com/veseshan/pctGCdata
+	registered = false

@@ -1,0 +1,34 @@
+[
+  {
+    "package": "ASCAT",
+    "url": "https://github.com/ShixiangWang/ascat",
+    "via": ["gcap"],
+    "branch": "v3-for-gcap-v1",
+    "subdir": "ASCAT",
+    "from": "gcap"
+  },
+  {
+    "package": "IDConverter",
+    "url": "https://github.com/ShixiangWang/IDConverter",
+    "via": ["gcap"],
+    "from": "gcap"
+  },
+  {
+    "package": "copynumber",
+    "url": "https://github.com/ShixiangWang/copynumber",
+    "via": ["gcap"],
+    "from": "gcap"
+  },
+  {
+    "package": "facets",
+    "url": "https://github.com/ShixiangWang/facets",
+    "via": ["gcap"],
+    "from": "gcap"
+  },
+  {
+    "package": "pctGCdata",
+    "url": "https://github.com/veseshan/pctGCdata",
+    "via": ["gcap", "facets"],
+    "from": "gcap"
+  }
+]

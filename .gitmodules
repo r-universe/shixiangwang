@@ -2,51 +2,51 @@
 	path = .registry
 	url = https://github.com/shixiangwang/universe
 	branch = HEAD
-[submodule "UCSCXenaTools"]
-	path = UCSCXenaTools
-	url = https://github.com/ShixiangWang/UCSCXenaTools
+[submodule "CNVMotif"]
+	path = CNVMotif
+	url = https://github.com/ShixiangWang/CNVMotif
+[submodule "DoAbsolute"]
+	path = DoAbsolute
+	url = https://github.com/ShixiangWang/DoAbsolute
+[submodule "IDConverter"]
+	path = IDConverter
+	url = https://github.com/ShixiangWang/IDConverter
 [submodule "UCSCXenaShiny"]
 	path = UCSCXenaShiny
 	url = https://github.com/openbiox/UCSCXenaShiny
+[submodule "UCSCXenaTools"]
+	path = UCSCXenaTools
+	url = https://github.com/ShixiangWang/UCSCXenaTools
 [submodule "contribution"]
 	path = contribution
 	url = https://github.com/openbiox/contribution
+[submodule "copynumber"]
+	path = copynumber
+	url = https://github.com/ShixiangWang/copynumber
+[submodule "ezcox"]
+	path = ezcox
+	url = https://github.com/ShixiangWang/ezcox
+[submodule "ggpolar"]
+	path = ggpolar
+	url = https://github.com/ShixiangWang/polar
+[submodule "metawho"]
+	path = metawho
+	url = https://github.com/ShixiangWang/metawho
+[submodule "neopeptides"]
+	path = neopeptides
+	url = https://github.com/ShixiangWang/neopeptides
+[submodule "regport"]
+	path = regport
+	url = https://github.com/ShixiangWang/regport
+[submodule "rsra"]
+	path = rsra
+	url = https://github.com/ShixiangWang/rsra
 [submodule "sigminer"]
 	path = sigminer
 	url = https://github.com/ShixiangWang/sigminer
 [submodule "sigminer.prediction"]
 	path = sigminer.prediction
 	url = https://github.com/ShixiangWang/sigminer.prediction
-[submodule "rsra"]
-	path = rsra
-	url = https://github.com/ShixiangWang/rsra
-[submodule "IDConverter"]
-	path = IDConverter
-	url = https://github.com/ShixiangWang/IDConverter
-[submodule "regport"]
-	path = regport
-	url = https://github.com/ShixiangWang/regport
-[submodule "neopeptides"]
-	path = neopeptides
-	url = https://github.com/ShixiangWang/neopeptides
-[submodule "ggpolar"]
-	path = ggpolar
-	url = https://github.com/ShixiangWang/polar
-[submodule "ezcox"]
-	path = ezcox
-	url = https://github.com/ShixiangWang/ezcox
 [submodule "tinyscholar"]
 	path = tinyscholar
 	url = https://github.com/ShixiangWang/tinyscholar
-[submodule "DoAbsolute"]
-	path = DoAbsolute
-	url = https://github.com/ShixiangWang/DoAbsolute
-[submodule "copynumber"]
-	path = copynumber
-	url = https://github.com/ShixiangWang/copynumber
-[submodule "CNVMotif"]
-	path = CNVMotif
-	url = https://github.com/ShixiangWang/CNVMotif
-[submodule "metawho"]
-	path = metawho
-	url = https://github.com/ShixiangWang/metawho

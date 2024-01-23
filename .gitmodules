@@ -22,7 +22,7 @@
 	url = https://github.com/openbiox/UCSCXenaShiny
 [submodule "UCSCXenaTools"]
 	path = UCSCXenaTools
-	url = https://github.com/ShixiangWang/UCSCXenaTools
+	url = https://github.com/ropensci/UCSCXenaTools
 [submodule "contribution"]
 	path = contribution
 	url = https://github.com/openbiox/contribution

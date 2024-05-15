@@ -1,9 +1,8 @@
 [
   {
     "package": "ASCAT",
-    "url": "https://github.com/ShixiangWang/ascat",
+    "url": "https://github.com/VanLoo-lab/ascat",
     "via": ["gcap"],
-    "branch": "v3-for-gcap-v1",
     "subdir": "ASCAT",
     "from": "gcap"
   },

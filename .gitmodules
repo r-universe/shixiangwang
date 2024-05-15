@@ -4,8 +4,7 @@
 	branch = HEAD
 [submodule "ASCAT"]
 	path = ASCAT
-	url = https://github.com/ShixiangWang/ascat
-	branch = v3-for-gcap-v1
+	url = https://github.com/VanLoo-lab/ascat
 	subdir = ASCAT
 	registered = false
 [submodule "CNVMotif"]

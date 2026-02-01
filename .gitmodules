@@ -2,11 +2,6 @@
 	path = .registry
 	url = https://github.com/shixiangwang/shixiangwang.r-universe.dev
 	branch = HEAD
-[submodule "ASCAT"]
-	path = ASCAT
-	url = https://github.com/VanLoo-lab/ascat
-	subdir = ASCAT
-	registered = false
 [submodule "CNVMotif"]
 	path = CNVMotif
 	url = https://github.com/ShixiangWang/CNVMotif
@@ -31,10 +26,6 @@
 [submodule "ezcox"]
 	path = ezcox
 	url = https://github.com/ShixiangWang/ezcox
-[submodule "facets"]
-	path = facets
-	url = https://github.com/ShixiangWang/facets
-	registered = false
 [submodule "gcap"]
 	path = gcap
 	url = https://github.com/ShixiangWang/gcap
@@ -47,10 +38,6 @@
 [submodule "neopeptides"]
 	path = neopeptides
 	url = https://github.com/ShixiangWang/neopeptides
-[submodule "pctGCdata"]
-	path = pctGCdata
-	url = https://github.com/veseshan/pctGCdata
-	registered = false
 [submodule "regport"]
 	path = regport
 	url = https://github.com/ShixiangWang/regport
